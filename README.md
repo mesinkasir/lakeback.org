@@ -1,4 +1,10 @@
+# JEKYLL VERSION
+
+Lakeback Jekyll version project
+
 ### New version migration to 11ty
+
+On Main Repo
 
 ## netlify url
 [lakeback.netlify.app](https://lakeback.netlify.app)
