@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2919169f-daeb-4fcc-9a7c-ab71da318e03/deploy-status)](https://app.netlify.com/sites/lakeback/deploys)
+### New version migration to 11ty
 
 ## netlify url
 [lakeback.netlify.app](https://lakeback.netlify.app)
